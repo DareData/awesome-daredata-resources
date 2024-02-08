@@ -32,3 +32,10 @@ A collection of learning resources curated by the DareData network.
 | :--- | :- | :---------- | 
 | [DareData Foundations LP](https://github.com/DareData/lp-foundations) | DareData Engineering | Where Data Scientists go to get out of notebooks! |
 | [DareData PyTorch Fundamentals](https://github.com/DareData/lp-pytorch-fundamentals) | DareData Engineering | Repo with course on PyTorch Fundamentals, where you'll learn how to work with tensors and the deep learning library. |
+
+
+## Articles and Blog Posts
+| Article | By | Description | 
+| :--- | :- | :---------- | 
+| https://paulgraham.com/makersschedule.html | Paul Graham | Programmers often dislike meetings because they operate on a maker's schedule, which values larger blocks of time for deep work |
+
