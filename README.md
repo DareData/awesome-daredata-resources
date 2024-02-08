@@ -37,5 +37,5 @@ A collection of learning resources curated by the DareData network.
 ## Articles and Blog Posts
 | Article | By | Description | 
 | :--- | :- | :---------- | 
-| https://paulgraham.com/makersschedule.html | Paul Graham | Programmers often dislike meetings because they operate on a maker's schedule, which values larger blocks of time for deep work |
+| [Manager & Makers Schedule](https://paulgraham.com/makersschedule.html) | Paul Graham | Programmers often dislike meetings because they operate on a maker's schedule, which values larger blocks of time for deep work |
 
