@@ -9,6 +9,7 @@ A collection of learning resources curated by the DareData network.
 - [Courses](#courses)
 - [Books](#books)
 - [Repos](#repos)
+- [Articles and Blog Posts](#Articles-and-Blog-Posts)
 
 <br>
 
@@ -27,6 +28,7 @@ A collection of learning resources curated by the DareData network.
 | :--- | :- | :---------- | :--- | :--------- | :---- |
 | [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) | Charles Duhigg | In The Power of Habit, business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.  | Management&Business | Ivo | Great to understand how to build more powerful habits. If you are having trouble setting routines of work, you should give it a try! |
 | [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512) | Bent Flyvbjerg | Nothing is more inspiring than a big vision that becomes a triumphant, new reality. Think of how the Empire State Building went from a sketch to the jewel of New York’s skyline in twenty-one months, or how Apple’s iPod went from a project with a single employee to a product launch in eleven months. | Management&Business | Ivo | Interesting to understand why big projects work or fail |
+| [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) | Chip Huyen | Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakeholders. Unique because they're data dependent, with data varying wildly from one use case to the next. In this book, you'll learn a holistic approach to designing ML systems that are reliable, scalable, maintainable, and adaptive to changing environments and business requirements. | Machine Learning | Ivo | Great introductory book to MLOps and the need to use MLOps systems |
 
 ## Repos
 | Name | By | Description | 
