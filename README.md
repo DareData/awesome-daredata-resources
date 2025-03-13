@@ -21,9 +21,9 @@ A collection of learning resources curated by the DareData network.
 | [DareData PyTorch Fundamentals](https://github.com/DareData/lp-pytorch-fundamentals) | DareData Engineering | Repo with course on PyTorch Fundamentals, where you'll learn how to work with tensors and the deep learning library. |
 
 ## Our Knowledge Sharing Sessions
-| Knowledge Sharing | Presentation | Description | 
-| :---------------- | :---- | :----------- | 
-|  WebGPU | [Live Presentation](https://drive.google.com/file/d/1LZdrmBByaULRHz7l9IADmiEvfn6Idgc5/view?usp=drive_link) | Concerning WebGPU, an API (Application Programming Interface) that allows your browser to interact with your computer's GPU (Graphical Processing Unit). This makes it possible to carry out high-performance computations and draw complex images that can be rendered in the browser.|
+| Knowledge Sharing | By | Live Presentation | Description | 
+| :---------------- | :---- | :---- | :----------- | 
+|  WebGPU | Bruno Vaz - DareData Engineering | [Live Presentation](https://drive.google.com/file/d/1LZdrmBByaULRHz7l9IADmiEvfn6Idgc5/view?usp=drive_link) | Concerning WebGPU, an API (Application Programming Interface) that allows your browser to interact with your computer's GPU (Graphical Processing Unit). This makes it possible to carry out high-performance computations and draw complex images that can be rendered in the browser.|
 
 ## Data Science Courses
 | Name | By | Description | Time | Difficulty | Price |
