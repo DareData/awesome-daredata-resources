@@ -48,4 +48,5 @@ A collection of learning resources curated by the DareData network.
 | :--- | :- | :---------- | 
 | [Manager & Makers Schedule](https://paulgraham.com/makersschedule.html) | Paul Graham | Programmers often dislike meetings because they operate on a maker's schedule, which values larger blocks of time for deep work |
 | [Async work](https://calmcode.io/course/remote/async) | calm.io | Create an environment where you can always get help and nobody can interrupt you |
+| [https://www.indexventures.com/scaling-through-chaos/create-and-empower-squads] | index ventures | scalling and empowering squads on the chaos of building a product | 
 
