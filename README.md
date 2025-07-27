@@ -11,7 +11,8 @@ A collection of learning resources curated by the DareData network.
 - [Data Science Courses](#data-science-courses)
 - [Books](#books)
 - [Articles and Blog Posts](#articles-and-blog-posts)
-- [Sofware Engineering](#sofware-engineering)
+- [Sofware Engineering](#sofware-engineering-resources)
+- [Videos](#videos)
 <br>
 
 ## Our Learning Pods
@@ -52,10 +53,15 @@ A collection of learning resources curated by the DareData network.
 | [Async work](https://calmcode.io/course/remote/async) | calm.io | Create an environment where you can always get help and nobody can interrupt you |
 | [Scaling through Chaos](https://www.indexventures.com/scaling-through-chaos/create-and-empower-squads) | index ventures | scalling and empowering squads on the chaos of building a product | 
 
-## Sofware Engineering
+## Sofware Engineer Resources
 | Article | By | Description | 
 | :--- | :- | :---------- | 
 | [Design Patterns - Python](https://refactoring.guru/design-patterns/python) | Refactoring Guru | An introduction with examples of Design Patterns (think "software design strategies to solve problems") in Python |
 | [Advanced Python](https://realpython.com/tutorials/advanced/) | Real Python | Advanced Python tutorials for a variety of topics | 
 | [Advanced Software Engineering Notes](https://github.com/Faxatos/Advanced-Software-Engineering-Notes/tree/main) | Emiliano Sescu - UniPi | A set of notes and diagrams covering requirement analysis, authentication & authorization, testing, quantum systems, project methodologies, software architecture, etc |
 
+
+## Videos
+| Video | By | Description | 
+| :--- | :- | :---------- | 
+| [Building GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) | Andrej Karpathy | In the video, Andrej builds a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. |
