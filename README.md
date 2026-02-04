@@ -1,6 +1,6 @@
 # DareData Resources
 
-A collection of learning resources curated by the DareData network.
+A collection of learning resources curated by the DareData humans.
 
 <br>
 
@@ -65,3 +65,6 @@ A collection of learning resources curated by the DareData network.
 | Video | By | Description | 
 | :--- | :- | :---------- | 
 | [Building GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) | Andrej Karpathy | In the video, Andrej builds a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. |
+| [Greatness](https://www.youtube.com/watch?v=OqmdLcyES_Q) | David Marquet | The video explains how leadership achieves greatness not by giving orders but by empowering people at all levels to act with intent and ownership rather than merely follow commands. |
+
+
