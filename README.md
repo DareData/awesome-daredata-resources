@@ -22,9 +22,12 @@ A collection of learning resources curated by the DareData humans.
 | [DareData PyTorch Fundamentals](https://github.com/DareData/lp-pytorch-fundamentals) | DareData Engineering | Repo with course on PyTorch Fundamentals, where you'll learn how to work with tensors and the deep learning library. |
 
 ## Our Knowledge Sharing Sessions
-| Knowledge Sharing | By | Live Presentation | Description | 
-| :---------------- | :---- | :---- | :----------- | 
-|  WebGPU | Bruno Vaz - DareData Engineering | [Live Presentation](https://drive.google.com/file/d/1LZdrmBByaULRHz7l9IADmiEvfn6Idgc5/view?usp=drive_link) | Concerning WebGPU, an API (Application Programming Interface) that allows your browser to interact with your computer's GPU (Graphical Processing Unit). This makes it possible to carry out high-performance computations and draw complex images that can be rendered in the browser.|
+| Knowledge Sharing | By | Date | Resources | Description | 
+| :---------------- | :---- | :-------- | :---- | :----------- | 
+|  DSPy for entity extraction | Bruno Vaz - DareData Engineering | 2025-12-17 | [Google Drive](https://drive.google.com/drive/folders/1xPbuFxZTEJn-M7TPbV18dv2t19cwLQpa?usp=drive_link) | DSPy is a framework that takes a different approach to building AI apps. “Programming not prompting” is their motto. |
+|  Moshi | Bruno Vaz - DareData Engineering | 2025-09-03 | [Google Drive](https://drive.google.com/drive/folders/1U5LXVWNnRYlZtB9h84-badmEF2g9d0W6?usp=drive_link) | Moshi is a speech-text foundation model. The goal of this presentation was to explore some of the ideas presented in the [paper](http://arxiv.org/abs/2410.00037), so that people could understand the components needed to build a speech-to-speech model. |
+|  Ultravox | Bruno Vaz - DareData Engineering | 2025-04-30 | [Google Drive](https://drive.google.com/drive/folders/1baVUFI637I3mn-UovE9MhAQuOkMgjygr?usp=drive_link) | Ultravox is a Speech Language Model (SLM) that processes speech directly, without conversion to text, which allows for a much better conversational experience. |
+|  WebGPU | Bruno Vaz - DareData Engineering | 2025-02-19 | [Google Drive](https://drive.google.com/drive/folders/1S3oh9VI17Msz9UPskTbMN8GtTCLnb3t4?usp=drive_link) | Concerning WebGPU, an API (Application Programming Interface) that allows your browser to interact with your computer's GPU (Graphical Processing Unit). This makes it possible to carry out high-performance computations and draw complex images that can be rendered in the browser.|
 
 ## Data Science Courses
 | Name | By | Description | Time | Difficulty | Price |
@@ -54,7 +57,7 @@ A collection of learning resources curated by the DareData humans.
 | [Async work](https://calmcode.io/course/remote/async) | calm.io | Create an environment where you can always get help and nobody can interrupt you |
 | [Scaling through Chaos](https://www.indexventures.com/scaling-through-chaos/create-and-empower-squads) | index ventures | scalling and empowering squads on the chaos of building a product | 
 
-## Sofware Engineer Resources
+## Sofware Engineering Resources
 | Article | By | Description | 
 | :--- | :- | :---------- | 
 | [Design Patterns - Python](https://refactoring.guru/design-patterns/python) | Refactoring Guru | An introduction with examples of Design Patterns (think "software design strategies to solve problems") in Python |
